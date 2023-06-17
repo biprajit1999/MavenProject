@@ -945,7 +945,7 @@
         <div class="left-content">
           <div id="left-p">
             <h2 style="text-align: center;">About Projects</h2>
-            <p>
+            <p style="overflow: auto; max-height: 500px;">
               DevOps, a software development approach, combines collaboration, automation, and continuous
                delivery to enhance the speed, quality, and efficiency of software delivery. It emphasizes
                close collaboration between development and operations teams, breaking down silos and
